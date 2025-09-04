@@ -1,5 +1,6 @@
 {
-  "name": "gemini-inline-chat-vscode",
+  "name": "simple-coding-agent",
+  "author": "JustM3Sunny",
   "version": "1.0.0",
   "type":"module",
   "description": "",
@@ -9,7 +10,6 @@
     "dev": "nodemon index"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "@google/genai": "^1.17.0",
